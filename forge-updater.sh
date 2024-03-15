@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Set the local path where the file will be downloaded and extracted
-downloadPath="/home/delver/Applications/forge-gui"
-extractPath="/home/delver/Applications/forge-gui"
+downloadPath="/tmp"
+extractPath="/path/to/forge-gui"
 baseUrl="https://downloads.cardforge.org/dailysnapshots/"
 
 # Get the current version number from the local file
